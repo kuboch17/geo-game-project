@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/4b014c90-e053-4170-8257-a016ed15fab9
 Procedurally generated sphere with adjustable resolution depending on quality settings or manual override
 <p align="center">
   <img alt="image" src="https://github.com/user-attachments/assets/6c734ce4-d37d-4d62-8504-78d84906b5c1" width="48%"/>
-  <img alt="image" src="https://github.com/user-attachments/assets/5aaff7b8-a19c-482d-93d9-8a9f37ce3892" width="46%"/>
+  <img alt="image" src="https://github.com/user-attachments/assets/5aaff7b8-a19c-482d-93d9-8a9f37ce3892" width="47%"/>
 </p>
 
 
