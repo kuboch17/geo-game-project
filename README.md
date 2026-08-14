@@ -23,11 +23,11 @@ Vertex offset calculated from corresponding heightmap pixel based on resolution 
 <img width="70%" height="623" alt="image" src="https://github.com/user-attachments/assets/7b30defd-6dd2-4842-aa3e-2b1685faa95d" />
 
 
+You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)** (windows)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - tutorial- select all files from the drive and hit download button it will create a .zip file<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - unpack into computer or launch GeoGameExtreme.exe from zip file
 
 
-You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)** (windows) <br>
-tutorial- select all files from the drive and hit download button it will create a .zip file <br>
-        - unpack into computer or launch GeoGameExtreme.exe from zip file <br>
 
 <img width="70%" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2597fa75-f9b7-4610-aa19-8258e3135d43" />
 
