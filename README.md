@@ -15,12 +15,14 @@ Procedurally generated sphere with adjustable resolution depending on quality se
   <img alt="image" src="https://github.com/user-attachments/assets/5aaff7b8-a19c-482d-93d9-8a9f37ce3892" width="47%"/>
 </p>
 
+Heightmap used from NASA's Topography and Bathymetry Maps 
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/dd168174-3091-48e2-b95d-9ab6ab2ebe05" />
+
 
 Vertex offset calculated from corresponding heightmap pixel based on resolution setting
-<img width="887" height="623" alt="image" src="https://github.com/user-attachments/assets/7b30defd-6dd2-4842-aa3e-2b1685faa95d" />
+<img width="70%" height="623" alt="image" src="https://github.com/user-attachments/assets/7b30defd-6dd2-4842-aa3e-2b1685faa95d" />
 
-Heightmap used from NASA's Topography and Bathymetry Maps 
-<img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/dd168174-3091-48e2-b95d-9ab6ab2ebe05" />
+
 
 
 You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)** (windows)
