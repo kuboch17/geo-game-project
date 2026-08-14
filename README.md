@@ -24,7 +24,7 @@ Vertex offset calculated from corresponding heightmap pixel based on resolution 
 
 
 You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)** (windows)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; select all files from the drive and hit download button it will create a .zip file<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - select all files from the drive and hit download button it will create a .zip file<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - unpack into computer or launch GeoGameExtreme.exe from zip file
 
 
