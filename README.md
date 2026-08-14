@@ -16,7 +16,7 @@ Procedurally generated sphere with adjustable resolution depending on quality se
 </p>
 
 Heightmap used from NASA's Topography and Bathymetry Maps 
-<img width="70%" alt="image" src="https://github.com/user-attachments/assets/dd168174-3091-48e2-b95d-9ab6ab2ebe05" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/dd168174-3091-48e2-b95d-9ab6ab2ebe05" />
 
 
 Vertex offset calculated from corresponding heightmap pixel based on resolution setting
@@ -25,11 +25,11 @@ Vertex offset calculated from corresponding heightmap pixel based on resolution 
 
 
 
-You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)** (windows)
-tutorial- select all files from the drive and hit download button it will create a .zip file
-        - unpack into computer or launch GeoGameExtreme.exe from zip file 
+You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)** (windows) <br>
+tutorial- select all files from the drive and hit download button it will create a .zip file <br>
+        - unpack into computer or launch GeoGameExtreme.exe from zip file <br>
 
-<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2597fa75-f9b7-4610-aa19-8258e3135d43" />
+<img width="70%" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2597fa75-f9b7-4610-aa19-8258e3135d43" />
 
 
 
