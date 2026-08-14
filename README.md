@@ -7,11 +7,21 @@ Main purpose of this project was to experiment with **procedural mesh generation
 
 https://github.com/user-attachments/assets/4b014c90-e053-4170-8257-a016ed15fab9
 
-
-
-## You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)**
-<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2597fa75-f9b7-4610-aa19-8258e3135d43" />
+# project overview
 
 Procedurally generated sphere with adjustable resolution depending on quality settings or manual override
+<p align="center">
+  <img alt="image" src="https://github.com/user-attachments/assets/6c734ce4-d37d-4d62-8504-78d84906b5c1" width="48%"/>
+  <img alt="image" src="https://github.com/user-attachments/assets/5aaff7b8-a19c-482d-93d9-8a9f37ce3892" width="48%"/>
+</p>
+
+
+
+
+
+You can **download and play this game [here](https://drive.google.com/drive/folders/1MLskKujmFORty_P3dKapZfe-YB5D2B5j?usp=drive_link)**
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2597fa75-f9b7-4610-aa19-8258e3135d43" />
+
+
 
 
